@@ -2,7 +2,7 @@
   "name": "face-recognition-video",
   "version": "1.0.0",
   "description": "Face Reconition from Video using face-api.js",
-  "main": "app.js",
+  
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js -L -e js,html",
